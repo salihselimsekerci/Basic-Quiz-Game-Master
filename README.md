@@ -15,7 +15,8 @@ An example of a basic level mobile quiz game
 ![Screenshot_7](https://user-images.githubusercontent.com/53614606/107120915-993e8700-68a0-11eb-9822-7f346d55d180.jpg)
 
 ### Clean Simple Architecture
-![csartbyo](https://user-images.githubusercontent.com/53614606/107120977-f2a6b600-68a0-11eb-9a23-7d682526d955.jpg)
+![clsimarc](https://user-images.githubusercontent.com/53614606/107121669-ca20bb00-68a4-11eb-885c-b9b5bea27807.jpg)
+
 
 ### Libraries and tools 🛠
 * [SharedPreferences](https://github.com/edelworksgithub/SharedPreferences)
