@@ -3,7 +3,7 @@
 Temel seviye bir mobil bilgi yarışma oyunu örneği.
 
 
-An example of a basic level mobile quiz game
+An example of a basic level mobile quiz game.
 
 # Outputs
 ![Screenshot_1](https://user-images.githubusercontent.com/53614606/107120905-9774c380-68a0-11eb-8af1-1ec6b631eee9.jpg)
