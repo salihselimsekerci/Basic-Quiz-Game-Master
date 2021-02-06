@@ -31,8 +31,8 @@ public class CongratulationsActivity extends AppCompatActivity {
 
 
 
-        btnQuit = findViewById(R.id.btnQuitCong);
-        btnBackMenu = findViewById(R.id.btnBackMenuCong);
+        btnQuit = findViewById(R.id.btnQuitCongratulations);
+        btnBackMenu = findViewById(R.id.btnBackMenuCongratulations);
         trueAnswers = findViewById(R.id.trueAnswersCong);
         scores = findViewById(R.id.txtScoreCongratulations);
 
